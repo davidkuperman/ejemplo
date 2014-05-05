@@ -1,4 +1,6 @@
 Ejemplo::Application.routes.draw do
+  resources :ceos
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
